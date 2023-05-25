@@ -17,8 +17,10 @@ This repo consists of an empty react application created using 'npx create-react
 To debug, use your browser devtools with F12 on your keyboard and navigate to Sources > localhost:xxxx > static/js > *C:locationOnYourComputer* > src > App.js. You can breakpoint here while live.
 
 ## Instructions
-#Required: By editting the App.js file, we ask that you fetch the json data situated at https://JamieC247.github.io/data.json and render it to a table.
-#Optional: Style the page however you like! This is your chance to stand out and be flashy.
+### Required: 
+By editting the App.js file, we ask that you fetch the json data situated at https://JamieC247.github.io/data.json and render it to a table.
+### Optional: 
+Style the page however you like! This is your chance to stand out and be flashy.
 
-# Good Luck!
+## Good Luck!
 *Remember, google is your friend.*
