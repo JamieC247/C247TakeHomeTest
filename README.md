@@ -21,4 +21,4 @@ To debug, use your browser devtools with F12 on your keyboard and navigate to So
 #Optional: Style the page however you like! This is your chance to stand out and be flashy.
 
 #Good Luck!
-*Remember, google is your friend.
+*Remember, google is your friend.*
